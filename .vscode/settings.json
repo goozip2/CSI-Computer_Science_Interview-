@@ -7,7 +7,7 @@
     "spring-boot.ls.java.home": "C:\\Program Files\\Java\\jdk-11.0.10",
   
     //maven repository settings.xml 설정 경로
-    "java.configuration.maven.userSettings": "D:\\CSI(ComputerScienceInterview)\\download\\apache-maven-3.9.4-bin\\apache-maven-3.9.4\\conf\\settings.xml",
+    "java.configuration.maven.userSettings": "C:\\apache-maven-3.9.4\\conf\\settings.xml",
   
     "java.configuration.updateBuildConfiguration": "automatic"
   }
