@@ -1,0 +1,14 @@
+{
+    //환경변수에 설정한 jdk버전이 아닌 해당 경로에 설치한 JDK 버전을 java.home 경로 설정
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-11.0.10",
+    //"java.home": "C:\\TP_Inplace\\java\\jdk-11.0.2",
+  
+    //spring boot 실행 시 사용할 java.home 경로 설정
+    "spring-boot.ls.java.home": "C:\\Program Files\\Java\\jdk-11.0.10",
+  
+    //maven repository settings.xml 설정 경로
+    "java.configuration.maven.userSettings": "D:\\CSI(ComputerScienceInterview)\\download\\apache-maven-3.9.4-bin\\apache-maven-3.9.4\\conf\\settings.xml",
+  
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+  
